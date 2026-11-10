@@ -1,0 +1,5 @@
+# Nameclick dogfood report — GitHub profile lookup (2026-11-10)
+
+- **What I tried:** On Android in Lemur Browser (desktop mode, which allows Chrome Web Store extensions), I installed the current Nameclick extension from the Chrome Web Store, opened `https://github.com/rusikrf`, opened Nameclick from the extensions menu, signed in with Google when prompted, and pressed **Find email** on the auto-detected name "Rusikrf" at about 09:57 UTC.
+- **What happened:** The lookup completed with **"No email found for this profile — Nothing was used."** This is a completed no-match. The free daily lookup counter was not charged, as the pricing note promises.
+- **Observation:** Before sign-in, the panel picked up the page's GitHub name ("Selected on this page: Rusikrf") with no text selection, and showed **Find email** and **Continue with Google** together. It was not obvious that Find email would first force the Google sign-in. A one-line hint such as "Sign in to run your first lookup" under the button would remove that guesswork on mobile, where the panel covers most of the page.
