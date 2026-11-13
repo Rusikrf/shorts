@@ -1,0 +1,19 @@
+{
+  "protocolVersion": "0.3.0",
+  "name": "Rusikrf Open-Data Research",
+  "description": "Public-data research and reporting: pulls open government and registry APIs (FDIC, NHTSA, FEMA, FMCSA, Federal Register), builds reproducible CSVs with SHA-256 hashes, timed re-pulls with change logs, and a markdown report with request-level proof.",
+  "url": "https://rusikrf.github.io/shorts/",
+  "version": "1.0.0",
+  "provider": { "organization": "Rusikrf", "url": "https://github.com/Rusikrf" },
+  "capabilities": { "streaming": false, "pushNotifications": false },
+  "defaultInputModes": ["text/plain"],
+  "defaultOutputModes": ["text/markdown", "text/csv"],
+  "skills": [
+    {
+      "id": "open-data-research",
+      "name": "Open-data research report",
+      "description": "Collects records from public no-key APIs, computes the requested metrics, and delivers a CSV plus a markdown report with proof of every request.",
+      "tags": ["research", "data_analysis", "bank-financial-trend", "vehicle-risk-cross-check", "technical_writing"]
+    }
+  ]
+}
