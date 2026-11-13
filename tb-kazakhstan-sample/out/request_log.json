@@ -1,0 +1,114 @@
+[
+ {
+  "url": "https://ghoapi.azureedge.net/api/MDG_0000000020?$filter=SpatialDim%20eq%20%27KAZ%27%20and%20TimeDim%20ge%202000%20and%20TimeDim%20le%202025",
+  "retrieved_utc": "2026-11-13T19:47:35+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:47:35 GMT",
+  "bytes": 15250,
+  "sha256": "af1960e8ac922bf57081c945f4fd28da5c67648bd42c0699937d9d26209bddf5"
+ },
+ {
+  "url": "https://ghoapi.azureedge.net/api/TB_e_inc_num?$filter=SpatialDim%20eq%20%27KAZ%27%20and%20TimeDim%20ge%202000%20and%20TimeDim%20le%202025",
+  "retrieved_utc": "2026-11-13T19:47:36+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:47:36 GMT",
+  "bytes": 15636,
+  "sha256": "25494fb1dd4acf25fe909155b4ef07b208c521fc64404132a66c74e21c82c83f"
+ },
+ {
+  "url": "https://ghoapi.azureedge.net/api/MDG_0000000017?$filter=SpatialDim%20eq%20%27KAZ%27%20and%20TimeDim%20ge%202000%20and%20TimeDim%20le%202025",
+  "retrieved_utc": "2026-11-13T19:47:37+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:47:37 GMT",
+  "bytes": 15166,
+  "sha256": "a2d407aa997de38db8f65c95abaad91f1525ddbb8c81fa03a9611370824048f8"
+ },
+ {
+  "url": "https://ghoapi.azureedge.net/api/TB_e_mort_exc_tbhiv_num?$filter=SpatialDim%20eq%20%27KAZ%27%20and%20TimeDim%20ge%202000%20and%20TimeDim%20le%202025",
+  "retrieved_utc": "2026-11-13T19:47:38+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:47:38 GMT",
+  "bytes": 15651,
+  "sha256": "bc88f51b291140a6d1912b0b02734f5ee25f44d30110ee4e222aaf55fee990ec"
+ },
+ {
+  "url": "https://ghoapi.azureedge.net/api/TB_c_newinc?$filter=SpatialDim%20eq%20%27KAZ%27%20and%20TimeDim%20ge%202000%20and%20TimeDim%20le%202025",
+  "retrieved_utc": "2026-11-13T19:47:39+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:47:39 GMT",
+  "bytes": 14630,
+  "sha256": "8c4953a49ff6bd1a77f3487def47aecd37bf6dd5ddd17083632578c2a11f794b"
+ },
+ {
+  "url": "https://ghoapi.azureedge.net/api/TB_1?$filter=SpatialDim%20eq%20%27KAZ%27%20and%20TimeDim%20ge%202000%20and%20TimeDim%20le%202025",
+  "retrieved_utc": "2026-11-13T19:47:40+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:47:40 GMT",
+  "bytes": 14944,
+  "sha256": "e390f9baa70fb140d368250e8cb0daf4b8b61336bb1a0a9a073a3c52d9de6fd8"
+ },
+ {
+  "url": "https://ghoapi.azureedge.net/api/TB_c_new_tsr?$filter=SpatialDim%20eq%20%27KAZ%27%20and%20TimeDim%20ge%202000%20and%20TimeDim%20le%202025",
+  "retrieved_utc": "2026-11-13T19:47:41+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:47:41 GMT",
+  "bytes": 87,
+  "sha256": "e611df4e6b8346dfed0ce9eb51913c94b8c8fdfbd9fd2e5b1b30005ae1a6bbf2"
+ },
+ {
+  "url": "https://ghoapi.azureedge.net/api/TB_e_inc_rr_num?$filter=SpatialDim%20eq%20%27KAZ%27%20and%20TimeDim%20ge%202000%20and%20TimeDim%20le%202025",
+  "retrieved_utc": "2026-11-13T19:47:42+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:47:42 GMT",
+  "bytes": 6612,
+  "sha256": "11db98aef849b2cbd143c9e9050a2314923c1596bf9dc4d04cf44b49782026ba"
+ },
+ {
+  "url": "https://api.worldbank.org/v2/country/KAZ/indicator/SH.TBS.INCD?format=json&date=2000:2025&per_page=200",
+  "retrieved_utc": "2026-11-13T19:48:37+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:48:37 GMT",
+  "bytes": 5880,
+  "sha256": "504ef0df2bac09767c56bd60d7a381864f88f26f7c5c3404246a3757566813a0"
+ },
+ {
+  "url": "https://api.worldbank.org/v2/country/KAZ/indicator/SH.TBS.DTEC.ZS?format=json&date=2000:2025&per_page=200",
+  "retrieved_utc": "2026-11-13T19:49:34+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:49:34 GMT",
+  "bytes": 5970,
+  "sha256": "9db985b8ea4253a620d8e55974b6734d2a9022f578935f27dddcc937ad428f5c"
+ },
+ {
+  "url": "https://api.worldbank.org/v2/country/KAZ/indicator/SH.TBS.CURE.ZS?format=json&date=2000:2025&per_page=200",
+  "retrieved_utc": "2026-11-13T19:50:33+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:50:33 GMT",
+  "bytes": 6102,
+  "sha256": "e39576737a3308f99d6f696b7acd6132e5ffdef4bafadef6d21d6386879f14d0"
+ },
+ {
+  "url": "https://api.worldbank.org/v2/country/KAZ/indicator/SP.POP.TOTL?format=json&date=2000:2025&per_page=200",
+  "retrieved_utc": "2026-11-13T19:51:10+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:51:10 GMT",
+  "bytes": 5266,
+  "sha256": "cfb4d3b47bc11746c1b7f37a09cf54dd03c738fee39c2edb2df0995ebd2ff574"
+ },
+ {
+  "url": "https://api.worldbank.org/v2/country/KAZ/indicator/NY.GDP.PCAP.CD?format=json&date=2000:2025&per_page=200",
+  "retrieved_utc": "2026-11-13T19:51:49+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:51:49 GMT",
+  "bytes": 5836,
+  "sha256": "89caad54bcf089d78cb83a343b4e60dbfd13da7799b36bf01fb30988c01dfe4e"
+ },
+ {
+  "url": "https://api.worldbank.org/v2/country/KAZ/indicator/SH.XPD.CHEX.GD.ZS?format=json&date=2000:2025&per_page=200",
+  "retrieved_utc": "2026-11-13T19:52:36+00:00",
+  "http_status": 200,
+  "http_date": "Fri, 13 Nov 2026 19:52:36 GMT",
+  "bytes": 5980,
+  "sha256": "a2c928efa2f84c9095586820f94ef147db12f1e30ccdddbcf447af2b8408cbba"
+ }
+]
