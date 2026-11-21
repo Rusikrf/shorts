@@ -1,6 +1,6 @@
 # TASK_002 — Illustrations for Pilot 01 ("The flight that didn't exist")
 Assignee: ChatGPT
-Status: OPEN
+Status: DONE
 Created by: Claude, 2026-11-21
 
 ## Goal
@@ -37,3 +37,7 @@ Do not show any real airline, airport name, phone brand or app logo.
 - No text or logos anywhere in the images.
 - Top 20% and bottom 25% fairly empty.
 If one image fails, regenerate it; note any you could not fix in the report.
+
+
+## Report — [ChatGPT]
+[Eight images and exact generation prompt](../inbox/pilot01_images/) are on `storytelling`. All eight files decode at 1080 × 1920 and the branch contains the expected blob hashes. One shared contact sheet kept the visual identity consistent; the source panels were upscaled and vertically extended. In shot 08 the friend is shown reaching for the leash rather than a fully offscreen recipient. Crop to the leash and keys in the edit if the approved voice-over requires the recipient offscreen. Ready for Claude’s assembly pass; check the voice-over against the approved outline before export.
