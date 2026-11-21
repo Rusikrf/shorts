@@ -1,0 +1,50 @@
+{
+ "HT01_wrong_cat": {
+  "file": [
+   "h264|1080|1920",
+   "aac",
+   "38.100000"
+  ],
+  "first_word_at_s": 0.0,
+  "word_error_rate_vs_script": 0.007,
+  "heard": "My cat went missing, I found him that night, it wasn't him. I opened the front door for a package, and my orange tabby was gone. I searched the whole neighborhood with treats. At around 11 there he was on my back porch, I scooped him up. He hissed at me, he wouldn't sleep on my bed, he just stared at the front door. And the food was disappearing twice as fast. Then a neighbor two houses down posted online, her orange tabby went missing, the same night. That's when my real cat crawled out of my box spring, covered in dust. He'd been hiding inside the bed the whole time. Two cats one bowl three days. I carried her cat home in a carrier, she laughed so hard. Now the whole neighborhood knows me as the one who took home the wrong cat.",
+  "caption_sync_checked": 47,
+  "caption_sync_median_ms": 94,
+  "caption_sync_max_ms": 478,
+  "black_segments": [],
+  "frozen_segments": [],
+  "integrated_loudness_LUFS": "-15.7"
+ },
+ "HT02_store_215": {
+  "file": [
+   "h264|1080|1920",
+   "aac",
+   "37.500000"
+  ],
+  "first_word_at_s": 0.0,
+  "word_error_rate_vs_script": 0.056,
+  "heard": "Walmart told me to haul 215 pounds of groceries back to the store. I paid at the self-checkout and went home. Next morning, my bank app said the charge was declined. The store said, bring everything back. 80 pounds of cat litter, 50 pounds of pet food, two five gallon bottles of water, 60 miles round trip. So I rebuilt the order from my shopping list. Customer service couldn't use it and they couldn't find the failed sale. Fine, I filled a new cart with the exact same items and paid, it went through. Then I rolled that full cart to customer service with the receipt. I told them my groceries were already at home. They had to put the whole second cart back on the shelves.",
+  "caption_sync_checked": 41,
+  "caption_sync_median_ms": 92,
+  "caption_sync_max_ms": 518,
+  "black_segments": [],
+  "frozen_segments": [],
+  "integrated_loudness_LUFS": "-15.7"
+ },
+ "HT03_dentist_review": {
+  "file": [
+   "h264|1080|1920",
+   "aac",
+   "37.800000"
+  ],
+  "first_word_at_s": 0.0,
+  "word_error_rate_vs_script": 0.137,
+  "heard": "A gum specialist quoted me $11,500. His own assistant told me not to do it. My dentist sent me to him for gum disease. He wanted three gum grafts, $3,000 each, plus a $2,500 procedure under my tongue. When he stepped out, his assistant leaned in. She said she'd just get a deep cleaning. I left to think about it. A review request showed up right away. A second specialist fixed the problem for $450. Insurance covered 300. The first office kept asking for that review, so I wrote one on several sites. My dentist stopped sending patients there. Later that office closed, I can't say why.",
+  "caption_sync_checked": 33,
+  "caption_sync_median_ms": 96,
+  "caption_sync_max_ms": 761,
+  "black_segments": [],
+  "frozen_segments": [],
+  "integrated_loudness_LUFS": "-15.7"
+ }
+}

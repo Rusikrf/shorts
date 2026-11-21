@@ -1,0 +1,137 @@
+{
+ "HT01_wrong_cat": {
+  "source": "https://www.reddit.com/comments/1whple2/",
+  "source_title": "TIFU by kidnapping my neighbor's cat for three days (r/tifu, 2026-09-16)",
+  "hook_options": [
+   "I brought my cat home. Three days later, my real cat crawled out of the bed.",
+   "For three days, I fed my neighbor's cat and thought it was mine.",
+   "My cat went missing. I found him that night. It wasn't him.",
+   "My cat hated me for three days. Turns out, it wasn't my cat.",
+   "I accidentally kidnapped my neighbor's cat. For three days."
+  ],
+  "hook_choice": 2,
+  "hook_why": "Conflict and a mystery in nine words; the twist is promised, not spoiled.",
+  "screen_text": "IT WASN'T MY CAT",
+  "title": "My cat went missing. The one I brought home wasn't him.",
+  "lines": [
+   "My cat went missing. I found him that night. It wasn't him.",
+   "I opened the front door for a package, and my orange tabby was gone.",
+   "I searched the whole neighborhood with treats.",
+   "At around eleven, there he was, on my back porch. I scooped him up.",
+   "He hissed at me. He wouldn't sleep on my bed. He just stared at the front door.",
+   "And the food was disappearing twice as fast.",
+   "Then a neighbor two houses down posted online. Her orange tabby went missing. The same night.",
+   "That's when my real cat crawled out of my box spring. Covered in dust.",
+   "He'd been hiding inside the bed the whole time.",
+   "Two cats. One bowl. Three days.",
+   "I carried her cat home in a carrier. She laughed so hard.",
+   "Now the whole neighborhood knows me as the one who took home the wrong cat."
+  ],
+  "twist_line": 7,
+  "resolution_line": 10,
+  "speech": {},
+  "keywords": [
+   "wasn't",
+   "real",
+   "twice",
+   "same",
+   "box",
+   "spring",
+   "wrong"
+  ],
+  "bg": [
+   "src/jv/03-glacier.mp4",
+   95
+  ]
+ },
+ "HT02_store_215": {
+  "source": "https://www.reddit.com/comments/1wul558/",
+  "source_title": "Walmart told me I had to haul 215 lbs + of groceries back to the store to fix a failed checkout. Enter: Malicious Compliance. (r/MaliciousCompliance, 2026-10-01)",
+  "hook_options": [
+   "Walmart told me to haul two hundred fifteen pounds of groceries back to the store.",
+   "My card declined after I left the store. They wanted every single item back.",
+   "The store wanted my groceries back. So I gave them a second cart instead.",
+   "Eighty pounds of cat litter. Sixty miles. Walmart said: bring it all back.",
+   "I left Walmart without paying by accident. Fixing it got ridiculous."
+  ],
+  "hook_choice": 0,
+  "hook_why": "Concrete, absurd demand in the first sentence; the viewer wants to see how it gets solved.",
+  "screen_text": "BRING BACK 215 LBS?",
+  "title": "Walmart told me to bring back 215 pounds of groceries. So I did this.",
+  "lines": [
+   "Walmart told me to haul 215 pounds of groceries back to the store.",
+   "I paid at the self-checkout and went home.",
+   "Next morning, my bank app said the charge was declined.",
+   "The store said: bring everything back.",
+   "80 pounds of cat litter. 50 pounds of pet food. Two 5-gallon bottles of water. 60 miles round trip.",
+   "So I rebuilt the order from my shopping list.",
+   "Customer service couldn't use it. And they couldn't find the failed sale.",
+   "Fine.",
+   "I filled a new cart with the exact same items, and paid. It went through.",
+   "Then I rolled that full cart to customer service with the receipt.",
+   "I told them my groceries were already at home.",
+   "They had to put the whole second cart back on the shelves."
+  ],
+  "twist_line": 8,
+  "resolution_line": 11,
+  "speech": {
+   "4": "Eighty pounds of cat litter. Fifty pounds of pet food. Two five-gallon bottles of water. Sixty miles round trip."
+  },
+  "keywords": [
+   "declined",
+   "everything",
+   "exact",
+   "same",
+   "shelves",
+   "receipt"
+  ],
+  "bg": [
+   "src/jv/11-sky.mp4",
+   210
+  ]
+ },
+ "HT03_dentist_review": {
+  "source": "https://www.reddit.com/comments/1wozbkj/",
+  "source_title": "Are you SURE you want me to review your dental practice? Ok!!! (r/MaliciousCompliance, 2026-09-24)",
+  "hook_options": [
+   "A gum specialist quoted me eleven thousand five hundred dollars. His own assistant told me not to do it.",
+   "Eleven thousand five hundred dollars for my gums. The second opinion cost four hundred fifty.",
+   "My specialist kept begging for a review. So I gave him one.",
+   "His assistant waited until he left, then whispered what she'd really do.",
+   "The quote was eleven thousand five hundred dollars. The fix was four hundred fifty."
+  ],
+  "hook_choice": 0,
+  "hook_why": "Big number plus an insider warning in one line: stakes and suspicion immediately.",
+  "screen_text": "$11,500 OR $450?",
+  "title": "A specialist quoted me $11,500. His own assistant told me not to do it.",
+  "lines": [
+   "A gum specialist quoted me $11,500. His own assistant told me not to do it.",
+   "My dentist sent me to him for gum disease.",
+   "He wanted three gum grafts, $3,000 each. Plus a $2,500 procedure under my tongue.",
+   "When he stepped out, his assistant leaned in. She said she'd just get a deep cleaning.",
+   "I left to think about it. A review request showed up right away.",
+   "A second specialist fixed the problem for $450. Insurance covered $300.",
+   "The first office kept asking for that review. So I wrote one. On several sites.",
+   "My dentist stopped sending patients there.",
+   "Later, that office closed. I can't say why."
+  ],
+  "twist_line": 5,
+  "resolution_line": 7,
+  "speech": {
+   "0": "A gum specialist quoted me eleven thousand five hundred dollars. His own assistant told me not to do it.",
+   "2": "He wanted three gum grafts, three thousand dollars each. Plus a twenty-five-hundred-dollar procedure under my tongue.",
+   "5": "A second specialist fixed the problem for four hundred fifty dollars. Insurance covered three hundred."
+  },
+  "keywords": [
+   "assistant",
+   "deep",
+   "cleaning",
+   "review",
+   "closed"
+  ],
+  "bg": [
+   "src/jv/10-desert.mp4",
+   150
+  ]
+ }
+}
