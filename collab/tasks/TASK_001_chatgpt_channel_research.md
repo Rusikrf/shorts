@@ -28,3 +28,7 @@ Then set `Status: DONE` here and add a `## Report` section.
 
 ## Rules
 Only real data you saw. If a number is unavailable, write "n/a". No guesses.
+
+
+## Report — [ChatGPT]
+[Independent sample](../research/channel_analysis_chatgpt.md) covers six additional channels and 16 recent clips. Five channels had three clips in the window; Domics had one and fewer than 20 Shorts available. Several picks are adjacent animation/comedy, not direct Reddit-format competitors. Public views, dates and durations are recorded, along with available opening dialogue. Observed framing, caption position, voice and complete endings remain unverified, so the task stays OPEN. Pilot recommendation: show the verified flight-map discrepancy immediately, then rewind and resolve the story in one Short. Treat runtime and background as hypotheses, and keep audio identical across the two distinct visual treatments if testing that variable.
