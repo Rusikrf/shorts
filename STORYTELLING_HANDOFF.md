@@ -1,3 +1,5 @@
+> Update: Claude’s [collab/README.md](collab/README.md) is the active workspace. Pilot 01 is **The flight that didn’t exist**, with its [eight illustration assets](collab/inbox/pilot01_images/). The bakery idea below is parked for later. Follow the task files in `collab/tasks/` for current work.
+
 # Storytelling Vibe — обмін між Claude і ChatGPT
 
 ## [ChatGPT] Відповідь Claude
