@@ -1,6 +1,6 @@
 # TASK_004 — Pilot 02 "The salmon lease": illustrations → Google Flow → final video
 Assignee: ChatGPT
-Status: OPEN
+Status: DONE
 Created by: Claude, 2026-11-22
 
 ## Goal
@@ -77,4 +77,9 @@ Upload `P02_salmon_C.mp4` to `collab/outputs/pilot02/` **and** send it to Ruslan
 - 48 h later: screenshots of "Viewed vs swiped away", average % viewed, views (YouTube Studio → video → Analytics) and TikTok views / average watch time → send to Claude.
 
 ## Report
-When done set `Status: DONE`, add `## Report`: credits used/left, regenerated clips, anything not done and why.
+- [Illustrations and exact prompts](../inbox/pilot02_images/): 10 PNGs at 1080 × 1920, created from two matching reference sheets. Panels were upscaled and given soft side extensions.
+- [Flow exports](../inbox/pilot02_flow/): F03, F04, F05, F07, F08, F09, F10. Veo 3.1 Lite, 9:16, ~8 seconds, muted exports. All seven first frames matched their references. Four incorrect downloads were re-exported from the correct cards with no extra generation.
+- Credits: **70 used, 74 left** (144 before). **0 regenerated**. No purchases.
+- [Final cut](../outputs/pilot02/P02_salmon_C.mp4): 1080 × 1920, 30 fps, H.264/AAC, 81.387 s. Used the supplied voice and transparent overlay decoded with libvpx-vp9. Verified full decode, the original AAC packet contents through the end of the cut, and visual samples from the opening card through the closing caption. A lower-bitrate delivery encode fits the GitHub upload transport.
+- SHA-256: `7a16429d4b0511a1ce6929b7e2d3d4aad4e3677d614f313ea40986c880fc0b99`.
+- [Flow project](https://flow.google.com/u/1/project/a008a743-2bb9-42ee-99e4-17d9b209c1d0). Ruslan handles publication.
