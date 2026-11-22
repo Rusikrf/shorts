@@ -128,7 +128,7 @@ for n, l in enumerate(lines_t):
 card.save(f"{OUT}/card.png")
 
 # ---------- background: licensed clips, hard cuts every ~6-9 s ----------
-rnd = random.Random(3); segs, acc, n = [], 0.0, 0
+rnd = random.Random(story["id"]); CLIPS = rnd.sample(CLIPS, len(CLIPS)); segs, acc, n = [], 0.0, 0
 while acc < total + 0.5:
     c = CLIPS[n % len(CLIPS)]; n += 1
     p = f"{W}/src/px/{c}.mp4"
