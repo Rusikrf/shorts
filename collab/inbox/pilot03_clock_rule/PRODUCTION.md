@@ -8,7 +8,7 @@ A hospital IT help desk manager sent a written policy requiring agents to be ava
 
 ## Script
 
-01. My manager said I had to stay on calls until four-oh-one seconds past four. So I hung up at that exact moment.
+01. My manager said I had to stay on calls until four p.m. and one second. So I hung up at that exact moment.
 02. I worked on an IT help desk at a hospital.
 03. Every shift started with logging into seven different programs. That took ten to fifteen minutes.
 04. Then the manager sent us an email.
