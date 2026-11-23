@@ -1,0 +1,50 @@
+{
+  "id": "P03_clock_rule",
+  "status": "SCRIPT_AND_STORYBOARD_READY",
+  "source": {
+    "url": "https://www.reddit.com/r/MaliciousCompliance/comments/1ubd7he/just_complying_with_your_written_expectations_and/",
+    "community": "r/MaliciousCompliance",
+    "original_title": "Just complying with your written expectations and directions, boss.",
+    "author": "u/speddie23",
+    "posted": "2026-06-21",
+    "caveat": "First-person Reddit account, not independently verified. Narration is paraphrased; no invented aftermath."
+  },
+  "hook_card": "My boss demanded I stay on calls until 4:00:01. So I hung up at exactly 4:00:01.",
+  "title": "My boss gave us a rule down to the SECOND. I followed it. #shorts",
+  "voice": "English; use same Kokoro af_heart voice as previous pilots if available; no paid generation",
+  "lines": [
+    "My manager said I had to stay on calls until four-oh-one seconds past four. So I hung up at that exact moment.",
+    "I worked on an IT help desk at a hospital.",
+    "Every shift started with logging into seven different programs. That took ten to fifteen minutes.",
+    "Then the manager sent us an email.",
+    "We had to be ready for calls one second before the shift started, and stay on the phone until one second after it ended.",
+    "So I followed that email. For a while.",
+    "Then a call came in with less than two minutes left on my shift.",
+    "I answered, took the caller's name and location, and listened as they began describing the problem.",
+    "The clock hit four p.m. and one second.",
+    "I apologized, said my shift was over, ended the call, logged off, and went home.",
+    "The caller complained. My manager called me into his office.",
+    "He said I should have finished the call.",
+    "I showed him the email he'd sent us.",
+    "It said I could log off one second after my shift ended.",
+    "And that was exactly what I had done.",
+    "Did it help my career? Probably not. But it was his rule."
+  ],
+  "fact_check_notes": [
+    "Original shift example: 7:00 a.m.–4:00 p.m., ready at 6:59:59, permitted to log off after 4:00:01.",
+    "Seven software programs took approximately 10–15 minutes to start and sign into.",
+    "Call arrived less than two minutes before the shift end; narrator got caller's name/location and heard part of their issue.",
+    "Narrator hung up at shift end, complaint to manager, meeting, cited manager's email.",
+    "Author described the act as career-limiting; no firing, policy reversal, apology, or lawsuit claimed."
+  ],
+  "editorial_notes": [
+    "Pronounce 4:00:01 as 'four p.m. and one second' for clarity. Opening line may be tightened in the final voice pass.",
+    "Do not claim this Reddit account has been independently verified as true.",
+    "Avoid actual hospital, company or platform logos. Characters are illustrative, not portraits of real people."
+  ],
+  "release": {
+    "caption": "The boss made the rule precise down to the second. I followed it. #redditstories #maliciouscompliance #storytime",
+    "description": "A hospital IT worker's manager wrote an unusually precise shift rule. One last-minute call put that rule to the test.\n\nRetold in our own words from a first-person account on r/MaliciousCompliance. Original: https://www.reddit.com/r/MaliciousCompliance/comments/1ubd7he/just_complying_with_your_written_expectations_and/\n\nAnimated illustrations are stylized reconstructions; the account has not been independently verified.\n#redditstories #maliciouscompliance #storytime #shorts",
+    "markers": "YouTube altered/synthetic disclosure as appropriate; TikTok AI-generated label."
+  }
+}
