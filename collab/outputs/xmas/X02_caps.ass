@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,112,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,1,0,0,0,100,100,0,0,1,8,3,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.96,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}MY SIBLINGS ORDERED
+Dialogue: 0,0:00:00.96,0:00:01.44,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}US TO BUY
+Dialogue: 0,0:00:01.44,0:00:02.45,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THEIR KIDS EXPENSIVE
+Dialogue: 0,0:00:02.45,0:00:03.27,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}CHRISTMAS GIFTS.
+Dialogue: 0,0:00:03.27,0:00:03.80,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SO WE DID.
+Dialogue: 0,0:00:03.80,0:00:04.09,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}JUST…
+Dialogue: 0,0:00:04.09,0:00:04.71,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}NOT THE KIND
+Dialogue: 0,0:00:04.71,0:00:05.43,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THEY EXPECTED.
+Dialogue: 0,0:00:05.96,0:00:06.64,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}MY PARTNER AND
+Dialogue: 0,0:00:06.64,0:00:07.27,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}I ARE CAREFUL
+Dialogue: 0,0:00:07.27,0:00:07.81,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}WITH MONEY.
+Dialogue: 0,0:00:08.09,0:00:08.74,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}AND SOMEHOW,
+Dialogue: 0,0:00:08.74,0:00:09.64,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THAT CONVINCED MY
+Dialogue: 0,0:00:09.64,0:00:10.49,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SIBLINGS WE WERE
+Dialogue: 0,0:00:10.49,0:00:10.79,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}RICH.
+Dialogue: 0,0:00:11.07,0:00:11.78,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SO THIS YEAR,
+Dialogue: 0,0:00:11.78,0:00:12.93,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THEY BASICALLY ORDERED
+Dialogue: 0,0:00:12.93,0:00:13.43,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}US TO BUY
+Dialogue: 0,0:00:13.43,0:00:14.49,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THEIR KIDS EXPENSIVE
+Dialogue: 0,0:00:14.49,0:00:14.99,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}PRESENTS.
+Dialogue: 0,0:00:15.27,0:00:16.28,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}BEING RESPONSIBLE WITH
+Dialogue: 0,0:00:16.28,0:00:17.02,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}MONEY HAD TURNED
+Dialogue: 0,0:00:17.02,0:00:17.55,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}US INTO THE
+Dialogue: 0,0:00:17.55,0:00:18.12,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}FAMILY BANK.
+Dialogue: 0,0:00:18.40,0:00:19.33,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THAT FELT UNFAIR.
+Dialogue: 0,0:00:19.33,0:00:20.16,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SO WE COMPLIED.
+Dialogue: 0,0:00:20.16,0:00:20.62,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}OUR WAY.
+Dialogue: 0,0:00:20.90,0:00:21.46,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}PLAY DOUGH.
+Dialogue: 0,0:00:21.74,0:00:22.49,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}KINETIC SAND.
+Dialogue: 0,0:00:22.77,0:00:23.13,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SLIME.
+Dialogue: 0,0:00:23.41,0:00:24.29,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}WATER BALLOONS.
+Dialogue: 0,0:00:24.57,0:00:25.53,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}AND NERF GUNS.
+Dialogue: 0,0:00:25.81,0:00:26.62,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}EVERY SINGLE GIFT
+Dialogue: 0,0:00:26.62,0:00:27.30,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THE KIDS WOULD
+Dialogue: 0,0:00:27.30,0:00:27.57,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}LOVE…
+Dialogue: 0,0:00:27.57,0:00:28.34,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}AND EVERY PARENT
+Dialogue: 0,0:00:28.34,0:00:29.29,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}WOULD DREAD CLEANING
+Dialogue: 0,0:00:29.29,0:00:29.48,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}UP.
+Dialogue: 0,0:00:29.76,0:00:30.40,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THEY WANTED US
+Dialogue: 0,0:00:30.40,0:00:30.91,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}TO SPEND ON
+Dialogue: 0,0:00:30.91,0:00:31.42,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THEIR KIDS.
+Dialogue: 0,0:00:31.42,0:00:31.76,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}WE DID.
+Dialogue: 0,0:00:32.04,0:00:32.71,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}AND HONESTLY?
+Dialogue: 0,0:00:32.71,0:00:33.37,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THIS MIGHT BE
+Dialogue: 0,0:00:33.37,0:00:34.09,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}OUR NEW FAMILY
+Dialogue: 0,0:00:34.09,0:00:35.09,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}CHRISTMAS TRADITION.

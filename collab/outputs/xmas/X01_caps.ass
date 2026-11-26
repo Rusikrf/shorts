@@ -1,0 +1,82 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,112,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,1,0,0,0,100,100,0,0,1,8,3,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.22,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}MY FATHER-IN-LAW SAID
+Dialogue: 0,0:00:01.22,0:00:02.10,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}GIVING AWAY OUR
+Dialogue: 0,0:00:02.10,0:00:02.82,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}OLD MUGS WAS
+Dialogue: 0,0:00:02.82,0:00:03.37,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}WASTEFUL.
+Dialogue: 0,0:00:03.37,0:00:04.36,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SO FOR CHRISTMAS…
+Dialogue: 0,0:00:04.36,0:00:04.97,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}HE GOT ALL
+Dialogue: 0,0:00:04.97,0:00:05.47,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}OF THEM.
+Dialogue: 0,0:00:06.00,0:00:06.59,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}WE HAD WAY
+Dialogue: 0,0:00:06.59,0:00:07.34,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}TOO MANY MUGS
+Dialogue: 0,0:00:07.34,0:00:08.19,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}IN OUR KITCHEN.
+Dialogue: 0,0:00:08.47,0:00:09.28,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SO WE DECIDED
+Dialogue: 0,0:00:09.28,0:00:09.97,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}TO GIVE THE
+Dialogue: 0,0:00:09.97,0:00:10.72,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}EXTRAS AWAY.
+Dialogue: 0,0:00:11.00,0:00:12.22,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}MY FATHER-IN-LAW HEARD
+Dialogue: 0,0:00:12.22,0:00:12.75,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}ABOUT IT.
+Dialogue: 0,0:00:12.75,0:00:13.33,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}AND HE DID
+Dialogue: 0,0:00:13.33,0:00:14.01,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}NOT APPROVE.
+Dialogue: 0,0:00:14.29,0:00:15.24,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}GIVING THEM AWAY,
+Dialogue: 0,0:00:15.24,0:00:15.72,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}HE SAID,
+Dialogue: 0,0:00:15.72,0:00:16.41,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}WAS JUST TOO
+Dialogue: 0,0:00:16.41,0:00:16.94,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}WASTEFUL.
+Dialogue: 0,0:00:17.22,0:00:17.53,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}FINE.
+Dialogue: 0,0:00:17.53,0:00:18.20,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}IF THEY WERE
+Dialogue: 0,0:00:18.20,0:00:18.82,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}TOO GOOD TO
+Dialogue: 0,0:00:18.82,0:00:19.39,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}GIVE AWAY…
+Dialogue: 0,0:00:19.39,0:00:20.43,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SOMEONE SHOULD HAVE
+Dialogue: 0,0:00:20.43,0:00:20.74,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THEM.
+Dialogue: 0,0:00:21.02,0:00:21.89,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SO MY HUSBAND
+Dialogue: 0,0:00:21.89,0:00:22.70,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}AND I PACKED
+Dialogue: 0,0:00:22.70,0:00:23.26,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THEM UP.
+Dialogue: 0,0:00:23.26,0:00:24.26,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SEVENTEEN MUGS.
+Dialogue: 0,0:00:24.26,0:00:24.88,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}ALL USED.
+Dialogue: 0,0:00:25.16,0:00:26.08,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}MY HUSBAND WARNED
+Dialogue: 0,0:00:26.08,0:00:27.04,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}HIS SIBLINGS AHEAD
+Dialogue: 0,0:00:27.04,0:00:27.50,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}OF TIME.
+Dialogue: 0,0:00:27.78,0:00:28.51,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THEY ALL KNEW
+Dialogue: 0,0:00:28.51,0:00:29.45,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}EXACTLY HOW THEIR
+Dialogue: 0,0:00:29.45,0:00:29.92,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}DAD WAS.
+Dialogue: 0,0:00:29.92,0:00:30.61,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}AND THEY ALL
+Dialogue: 0,0:00:30.61,0:00:31.44,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}AGREED IT WOULD
+Dialogue: 0,0:00:31.44,0:00:31.97,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}BE FUNNY.
+Dialogue: 0,0:00:32.25,0:00:32.56,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}WELL…
+Dialogue: 0,0:00:32.56,0:00:33.18,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}ONE OF THEM
+Dialogue: 0,0:00:33.18,0:00:34.17,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SAID CHRISTMAS WAS
+Dialogue: 0,0:00:34.17,0:00:34.85,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}NOT THE TIME
+Dialogue: 0,0:00:34.85,0:00:35.37,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}OR PLACE.
+Dialogue: 0,0:00:35.65,0:00:36.30,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}WE DID IT
+Dialogue: 0,0:00:36.30,0:00:36.82,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}ANYWAY.
+Dialogue: 0,0:00:37.10,0:00:38.05,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}CHRISTMAS DAY.
+Dialogue: 0,0:00:38.05,0:00:39.13,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}THE WHOLE FAMILY
+Dialogue: 0,0:00:39.13,0:00:39.96,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}IN ONE ROOM.
+Dialogue: 0,0:00:39.96,0:00:40.78,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}HE OPENS THE
+Dialogue: 0,0:00:40.78,0:00:41.10,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}BOX…
+Dialogue: 0,0:00:41.63,0:00:42.92,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SEVENTEEN USED MUGS.
+Dialogue: 0,0:00:43.20,0:00:44.18,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}EVERYONE IN THAT
+Dialogue: 0,0:00:44.18,0:00:44.81,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}ROOM KNEW.
+Dialogue: 0,0:00:44.81,0:00:45.51,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}ONLY HE WAS
+Dialogue: 0,0:00:45.51,0:00:46.14,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}SURPRISED.
+Dialogue: 0,0:00:46.42,0:00:47.53,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}HE STARTED MAKING
+Dialogue: 0,0:00:47.53,0:00:48.08,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}EXCUSES.
+Dialogue: 0,0:00:48.08,0:00:49.30,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}MY HUSBAND ANSWERED
+Dialogue: 0,0:00:49.30,0:00:49.61,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}HIM.
+Dialogue: 0,0:00:49.61,0:00:50.89,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}AND THE CONVERSATION
+Dialogue: 0,0:00:50.89,0:00:51.26,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}JUST…
+Dialogue: 0,0:00:51.26,0:00:51.87,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}MOVED ON.
+Dialogue: 0,0:00:52.15,0:00:52.75,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}NO FIGHT.
+Dialogue: 0,0:00:52.75,0:00:53.36,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}NO DRAMA.
+Dialogue: 0,0:00:53.36,0:00:54.14,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}JUST ONE MAN
+Dialogue: 0,0:00:54.14,0:00:55.35,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}WITH SEVENTEEN MORE
+Dialogue: 0,0:00:55.35,0:00:56.14,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}MUGS THAN HE
+Dialogue: 0,0:00:56.14,0:00:56.86,Cap,,0,0,0,,{\pos(540,1080)\fad(40,0)\t(0,90,\fscx108\fscy108)\t(90,160,\fscx100\fscy100)}CAN HANDLE.
