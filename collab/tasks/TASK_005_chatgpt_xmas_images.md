@@ -1,6 +1,6 @@
 # TASK_005 — Christmas pack 01: illustrations for X01 and X02
 Assignee: ChatGPT
-Status: OPEN
+Status: DONE
 Created by: Claude, 2026-11-26
 
 ## Goal
@@ -28,3 +28,6 @@ If GitHub upload is not possible, put them in Google Drive `ChatGPT/stories/coll
 ## Done =
 Status → DONE, add a short `## Report` below (what was made, anything that failed).
 Claude then cuts the images to the existing voice timeline and re-renders both videos.
+
+## Report
+Generated two 4×2 contact sheets and exported eight 1080×1920 PNGs per story. Verified scene order, character continuity, and PNG dimensions. The exact generation prompts are in each image folder. The vertical exports use softened extensions above and below the original artwork for caption space.
